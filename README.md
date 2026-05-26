@@ -1,9 +1,11 @@
+<div align='center'>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=HI+I'am+Avazbek;Frontend+Developer;Full-Stack+Developer" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend_Developer-61DAFB?style=for-the-badge&logo=frontendmentor&logoColor=black" />
-</p>
+
+ ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00FF99?style=for-the-badge&logo=hackthebox&logoColor=black) <img src="https://img.shields.io/badge/Frontend_Developer-61DAFB?style=for-the-badge&logo=frontendmentor&logoColor=black" /> ![Full Stack Developer](https://img.shields.io/badge/Full--Stack_Developer-000000?style=for-the-badge&logo=stackoverflow&logoColor=white) ![Backend Developer](https://img.shields.io/badge/Backend_Developer-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  
+
 <hr/>
 <h2><img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="20" /> My Skils</h2>
 <br/>
@@ -52,4 +54,5 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="50" />
 </p>
+<div/>
 
